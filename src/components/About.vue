@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col lg="6">
-        <v-img width="60%" src="./../assets/power.png" alt=""></v-img>
+        <v-img width="90%" src="./../assets/way.jpg" alt=""></v-img>
       </v-col>
       <v-col lg="6">
       <v-list-subheader class="text-md-h4">

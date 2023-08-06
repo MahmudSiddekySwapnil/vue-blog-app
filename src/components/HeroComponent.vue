@@ -10,7 +10,7 @@
          </v-btn>
        </v-col>
        <v-col lg="6">
-         <v-img width="80%" src="./../assets/Power-Plant.png" alt=""></v-img>
+         <v-img width="90%" src="./../assets/chat.jpg" alt=""></v-img>
        </v-col>
      </v-row>
    </v-container>
@@ -32,4 +32,5 @@ p.description{
   margin: 32px 0px;
   color: #444444ba;
 }
+
 </style>

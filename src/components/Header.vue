@@ -36,11 +36,12 @@
      },
    }
 </script>
-<style scoped>
+<style>
 .v-toolbar-title{
   font-size: 28px;
   color:#4caf50;
   font-weight: 700;
   font-family:cursive;
 }
+
 </style>
